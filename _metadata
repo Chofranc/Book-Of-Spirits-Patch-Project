@@ -1,6 +1,6 @@
 {
   "author" : "Chofranc",
-  "description" : "Patch to add support for mods that aren't fully or partially compatible with Book Of Spirits.",
+  "description" : "Patch to add support for mods that aren't fully or partially compatible with Book Of Spirits.\n\n[url=https://github.com/Chofranc/Book-Of-Spirits-Patch-Project/releases]Non-Steam version[/url]",
   "friendlyName" : "Book of Spirits - Patch Project",
   "includes" : ["FrackinUniverse", "XRC_BETA_STARBOUND", "Elithian_Races_Mod", "Arachne Race Mod", "Felins", "Galaxy_in_Conflict", "lucario", "shoggothracemod", "The Starforge v1.0", "XRC_BETA_STARBOUND"],
   "link" : "steam://url/CommunityFilePage/3471003713",
