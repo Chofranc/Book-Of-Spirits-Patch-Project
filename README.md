@@ -4,6 +4,7 @@ A patch for the mod Book Of Spirits.
 FULLY SUPPORTED MODS
 * Elithian Races Mod
 * Betabound
+
 SUPPORTED SHIP PET MODS
 * FU
 * Avali
